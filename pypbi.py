@@ -4,8 +4,8 @@ import log
 
 log = log.log('log.txt', 'DEBUG')
 
-CLIENT_ID = '0ff6b819-6eb1-4881-918a-11b7485224d1'
-SECRET_KEY = '0hjDS3PRMqC2yiFHKGvd2PBgzmChxklO6NxZz0vHYIw='
+CLIENT_ID = 'CLIENT_ID'
+SECRET_KEY = 'SECRET'
 REDIRECT_URI = 'https://login.live.com/oauth20_desktop.srf'
 AUTH_ENDPOINT = 'https://login.microsoftonline.com/common'
 TOKEN_ENDPOINT = 'https://login.microsoftonline.com/common/oauth2/token'
